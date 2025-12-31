@@ -1,0 +1,7 @@
+sfrwetgy5ewbyn
+
+wait 
+python file_checker.py check
+dfeegfegfef
+type it 
+
